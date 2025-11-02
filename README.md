@@ -115,5 +115,7 @@ Studied the combined effect on overfitting and generalization.
 **Final Notes**
 
 All work implemented from scratch without external code.
+
 GPU acceleration used for faster training.
+
 Followed academic integrity guidelines and submission rules.
